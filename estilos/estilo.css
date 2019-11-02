@@ -121,3 +121,14 @@ footer {
         font-size: 16px;
         font-family: Verdana, Geneva, Tahoma, sans-serif; 
     }  
+
+    .cont_visitas a{
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 16px;
+        margin: auto;
+    }
+
+    .cont_visitas a:hover{
+        cursor: default;
+    }
